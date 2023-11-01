@@ -98,3 +98,9 @@ include/*
 lib/*
 bin/*
 test/test_runner
+
+## ignore build folder
+
+testsome/build
+somelibDemo/build
+[Bb][Uu][Ii][Ll][Dd]/
